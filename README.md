@@ -10,10 +10,10 @@
 
 🌍 **Innovating digital solutions for modern businesses** | MERN Stack | Scalable Web Apps | UI/UX & Branding | Helping brands go digital
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrzeeshan185/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Company](https://img.shields.io/badge/Solution_Innov8-00D4FF?style=for-the-badge&logo=rocket&logoColor=black)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Company](https://img.shields.io/badge/Solution_Innov8-00D4FF?style=for-the-badge&logo=rocket&logoColor=black)](https://www.solutionsinnov8.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshan@solutionsinnov8.com)
 
 </div>
 
@@ -152,9 +152,9 @@ At **Solution Innov8**, we partner with startups, SMEs, and enterprises to deliv
 
 Whether it's a startup MVP, enterprise system, blockchain product, or AI tool — I'm here to help you build it right.
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:your@email.com)
-[![Book a Call](https://img.shields.io/badge/📞_Book_a_Call-00D4FF?style=for-the-badge)](#)
-[![Solution Innov8](https://img.shields.io/badge/🚀_Solution_Innov8-black?style=for-the-badge)](#)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:zeeshan@solutionsinnov8.com)
+[![Book a Call](https://img.shields.io/badge/📞_Book_a_Call-00D4FF?style=for-the-badge)](https://www.solutionsinnov8.com/booking)
+[![Solution Innov8](https://img.shields.io/badge/🚀_Solution_Innov8-black?style=for-the-badge)](https://www.solutionsinnov8.com/)
 
 ---
 
